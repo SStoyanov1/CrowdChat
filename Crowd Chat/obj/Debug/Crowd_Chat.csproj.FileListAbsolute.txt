@@ -1,0 +1,18 @@
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Crowd Chat\Crowd Chat\bin\Crowd_Chat.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Crowd Chat\Crowd Chat\bin\Crowd_Chat.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Crowd Chat\Crowd Chat\bin\Crowd_Chat.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Crowd Chat\Crowd Chat\obj\Debug\Crowd_Chat.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Crowd Chat\Crowd Chat\obj\Debug\Crowd_Chat.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Crowd Chat\Crowd Chat\obj\Debug\Crowd_Chat.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd Chat\bin\Crowd_Chat.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd Chat\bin\Crowd_Chat.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd Chat\bin\Crowd_Chat.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd Chat\obj\Debug\Crowd_Chat.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd Chat\obj\Debug\Crowd_Chat.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd Chat\obj\Debug\Crowd_Chat.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd-Chat\Crowd Chat\bin\Crowd_Chat.dll.config
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd-Chat\Crowd Chat\bin\Crowd_Chat.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd-Chat\Crowd Chat\bin\Crowd_Chat.pdb
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd-Chat\Crowd Chat\obj\Debug\Crowd_Chat.csprojResolveAssemblyReference.cache
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd-Chat\Crowd Chat\obj\Debug\Crowd_Chat.dll
+C:\Users\Stoyan\Documents\Visual Studio 2013\Projects\Homeworks JavaScript Applications\Crowd Chat\Crowd-Chat\Crowd Chat\obj\Debug\Crowd_Chat.pdb
